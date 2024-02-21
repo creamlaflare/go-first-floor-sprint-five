@@ -233,7 +233,6 @@ func main() {
 			Weight:       85,
 		},
 	}
-
 	fmt.Println(ReadData(running))
 
 }
